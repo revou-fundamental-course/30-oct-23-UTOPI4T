@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(219, 196, 208);
+}
+
+.container {
+    margin: 20px;
+    padding: 6%;
+    border: 2px solid rgb(5, 149, 3);
+    border-radius: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+label {
+    display: block;
+    margin: px 0;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 15px 0;
+}
+
+button {
+background-color: rgb(9, 205, 6);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+label[for="gender"] {
+    display:block;
+    margin:0px 0px 4%;
+    font-size: 17px;
+}
+#gender {
+    margin: 0 0 6%;
+}
+
+button:hover {
+    background-color: #006505;
+}
+
+#result {
+    font-weight: bold;
+    margin: 15px 0;
+}
+/*  Nathan Rahmavanya Pradhana - wsense911@gmail.com  */
